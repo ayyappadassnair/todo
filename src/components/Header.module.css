@@ -1,0 +1,18 @@
+.nav{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 20px;
+    padding-right: 30px;
+    background-color: rgb(157, 10, 198);
+    color: white;
+}
+
+.right{
+    display: flex;
+    list-style: none;
+    padding-left: 20px;
+}
+
+.li{
+    margin-right: 10px;
+}

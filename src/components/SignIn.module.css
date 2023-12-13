@@ -1,0 +1,50 @@
+.main{
+    width: 34vw;
+    height: 60vh;
+    background-color: rgb(255, 255, 255);
+    margin-left: 33vw;
+    margin-top: 5vh;
+    box-shadow: 5px 5px 15px black;
+    border-radius: 10px;
+    padding-top: 25px;
+}
+
+.input1{
+    width: 28vw;
+    height: 5vh;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    outline: none;
+}
+
+.signinbtn{
+    width: 28vw;
+    color: white;
+    background-color: rgba(37, 37, 255, 0.896);
+    height: 40px;
+    font-weight: 600;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    margin-right: 10px;
+    border: none;
+    border-radius: 5px;
+}
+
+
+.icon{
+    color:orange;
+    font-size: 20px;
+}
+
+.lab1{
+    margin-right: 21vw;
+    font-weight: 600;
+}
+.lab2{
+    margin-right: 23vw;
+    font-weight: 600;
+}
+
+.rem{
+    margin-right: 20vw;
+}

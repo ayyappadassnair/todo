@@ -1,0 +1,73 @@
+.main{
+    width:35vw;
+    height: 60vh;
+    background-color: rgb(255, 255, 255);
+    margin-left: 33vw;
+    margin-top: 5vh;
+    box-shadow: 5px 5px 15px black;
+    border-radius: 10px;
+}
+
+.input1{
+    display: flex;
+    width: 5vw;
+    padding-top: 20px;
+}
+.input2{
+    padding-top: 20px;
+}
+
+.in1{
+    width: 15vw;
+    height: 27px;
+    margin-left: 10px;
+    outline: none;
+}
+
+.lab1{
+    margin-right: 100px;
+    font-weight: 600;
+}
+.lab2{
+    margin-right: 25vw;
+    font-weight: 600;
+}
+.lab3{
+    margin-right: 27vw;
+    font-weight: 600;
+}
+.lab3_div{
+   margin-top: 20px;
+}
+span{
+    color: red;
+}
+
+.in2{
+    width: 31vw;
+    height: 27px;
+    outline: none;
+    margin-right: 20px;
+}
+
+.signupbtn{
+    width: 30vw;
+    color: white;
+    background-color: rgba(37, 37, 255, 0.896);
+    height: 40px;
+    font-weight: 600;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    margin-right: 10px;
+    border: none;
+    border-radius: 5px;
+}
+
+.icon{
+    color:orange;
+    font-size: 20px;
+}
+
+.full_sec{
+    margin-left: 10px;
+}
